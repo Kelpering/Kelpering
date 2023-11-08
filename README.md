@@ -1,3 +1,3 @@
  - Username: Kelpering
- - Languages and libraries: C#, .Net, ASP.Net, Javascript, HTML, CSS, Bootstrap 4
+ - Languages and libraries: C, C++
  - Experience: Beginner-Intermediate
