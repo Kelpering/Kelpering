@@ -1,3 +1,3 @@
  - Username: Kelpering
- - Languages and libraries: C
- - Experience: Beginner-Intermediate
+ - Languages: C, C++
+ - Experience: Intermediate-Advanced
